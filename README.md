@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gintokyo
+- 👋 Hello world! I’m @Gintokyo
 - 👀 I’m interested in improving my skills and finally becoming a programmer 😸
 - 🌱 I’m currently learning Python 🐍
 <!-- 💞️ I’m looking to collaborate on ...-->
